@@ -3,6 +3,10 @@ For this lab, you will create an application to "draw" polygons using the Model-
 
 ## Example Video
 
+
+https://github.com/gormes-EPIC/CAP24_PolygonApplication_Skeleton/assets/134316348/c18c7ca0-c99a-45ea-bdd1-7563310376a5
+
+
 ## Resources
 [Java Polygon class](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/java/awt/Polygon.html) - *You will want to use these to represent each vertex. The polygons the user sees will be a collection of these vertexes.*
 
