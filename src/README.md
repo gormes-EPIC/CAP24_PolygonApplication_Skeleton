@@ -8,6 +8,10 @@ For this lab, you will create an application to "draw" polygons using the Model-
 
 [Java Swing examples](http://www.java2s.com/Tutorials/Java/Swing.htm) - *The Swing library allows programmers to create simple GUI for Java programs. For this project, the window has been created for you, but you will need to connect the visual elements to their respective functionalities*
 
+[Original project this assignment was adapted from](https://github.com/heineman/tangram/tree/master/TangramCourseProject/sample)
+
+[Tutorial for original assignment with old Java](https://heineman.github.io/TangramProject/sample/)
+
 ---
 
 # Polygon Drawer: Part 1
